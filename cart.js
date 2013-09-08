@@ -20,6 +20,7 @@ function addbutton(event)
 	var val11=document.getElementById('name').value;
 	var val12=document.getElementById('author').value;
 	var val13=document.getElementById('price').value;
+
 	
 	if(val11!="BOOK NAME" && val11!="" && val12!="AUTHOR NAME" && val12!="" && val13!="PRICE" && val13!="")
 
@@ -55,6 +56,7 @@ function addbutton(event)
 	document.getElementById('name').value="BOOK NAME";
 	document.getElementById('author').value="AUTHOR";
 	document.getElementById('price').value="PRICE";
+	
 }
 }
 
