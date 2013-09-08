@@ -1,0 +1,213 @@
+html
+{
+	background-size: 100%;
+}
+body
+{	
+	/*8background-color: #2E2C2C;*/
+	background-image:url(D:/Ramesh/webpages/sky.jpg);
+}
+#a
+{
+
+	margin: auto;
+	font-weight: bold;
+	font-size: 25px;
+	padding-top: 20px;
+	background-color: rgb(235,235,235);
+	height: 70px;
+	width: 800px;
+	border-radius: 5px;
+	padding-left: 10px;
+	padding-right: 20px;
+}
+label
+{
+	margin: auto;
+	
+
+}
+.error
+{
+	margin: auto;
+	vertical-align: center;
+	padding-left: 10px;
+	padding-right: 20px;
+	width: 800px;
+	height: 36px;
+	background-color:rgb(235,235,235); 
+	border-radius: 5px;
+	text-align: center;
+	margin-top: 5px;
+}
+#delete1
+{
+	
+	/*margin: auto;
+	width: 30px;
+	height: 32px;*/
+	
+	float: right;
+	padding-right: 0px;
+	background-color: rgba(0,0,0,0);
+	border : 0px;
+    -moz-border-radius:7px;
+    -webkit-border-radius:7px;
+    
+}
+#msg
+{
+	color: rgb(210,80,80);
+	margin-right: 491px;
+font-size: 19px;
+padding-top: 8px;
+padding-left: 68px;
+text-align: left;
+float: left;
+}
+
+label
+{
+font-size: 25px;
+}
+.show .error
+{   
+
+	display: block;
+}
+.hide .error
+{
+	display: none;
+}
+#a1
+{
+	margin: auto;
+	text-align: center;
+}
+#name
+{
+	margin: auto;
+	margin-left: 20px;
+	height: 25px;
+}
+#author
+{
+	margin: auto;
+	margin-left: 20px;
+	height: 25px;
+}
+#price
+{
+	margin: auto;
+	margin-left: 20px;
+	height: 25px;
+}
+#add
+{	
+	background:url(result.png);
+	background-position: -6px -4px;
+	margin: auto;
+	width: 27px;
+	height: 29px;
+	border:0px;
+
+	border-radius: 27px;
+	padding-bottom: 7px;	
+	
+
+}
+#addc
+{
+	width: auto;
+
+/*margin-right: 83px;*/
+margin-left: 11px;
+height: 48px;
+-webkit-transition: all 40s ease;
+}
+#delete
+{
+	background:url(result.png);
+	background-position: -10px -55px;
+	height: 29px;
+	border:0px;
+	border-radius: 22px;
+	padding-bottom: 7px;
+	margin-left: 13px;
+	padding-right:20px;
+}
+#up
+{
+	padding-bottom: 7px;
+	background:url(result.png);
+	background-position: -6px 36px;
+	height: 29px;
+	border:0px;
+	border-radius: 27px;
+	margin-left: 7px;
+	padding-right:20px;
+}
+#down
+{
+	padding-bottom: 7px;
+	background:url(result.png);
+	background-position: -110px -117px;
+	height: 29px;
+	border:0px;
+	padding-right:21px;
+	border-radius: 27px;
+	margin-left: 7px;
+}
+input
+{
+	margin:auto;
+	height: 25px;
+	border-radius: 5px;
+	text-align: center;
+	margin-left: 30px;
+}
+#b
+{
+	background-color: rgb(235,235,235);
+	margin: auto;
+	height: 400px;
+	margin-top: 1%;
+	border-radius: 5px;
+	width: 828px;
+	overflow: auto;
+
+}
+#c
+{
+	padding-top: 3%;
+
+}
+
+#lic
+{
+	margin: auto;
+		list-style-type: none;
+		display: none;
+}
+#cl
+{
+	margin:auto;
+	list-style-type: none;
+}
+.cartdiv
+{
+	padding-top: 10px;
+	display: inline-block;
+}
+#c2
+{
+	margin: auto;
+	
+	display: inline-block;
+	
+
+}
+.cl
+{
+	list-style-type: none;
+}
