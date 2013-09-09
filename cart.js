@@ -94,6 +94,8 @@ function upbutton(event)
 		var temp=mytarget.previousSibling.innerHTML;
 		mytarget.previousSibling.innerHTML=mytarget.innerHTML;
 		mytarget.innerHTML=temp;
+		var temp1=mytarget.previousSibling.value;
+		alert(temp1);
 	}
 	else
 	{
